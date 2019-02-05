@@ -1,7 +1,8 @@
 ---
 title: "Rachel P. Ogilvie, PhD, MPH"
-date: "2/5/2019"
-output: html_document
+output: 
+  html_document:
+    theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
@@ -14,9 +15,9 @@ Hello! I am an epidemiologist passionate about good science and improving public
 
 ## Education
 
-* PhD in Epidemiology from the University of Minnesota in 2017 
-* MPH from Emory University in 2013
-* BA from Bates College in 2009
+* PhD - Epidemiology, University of Minnesota, 2017 
+* MPH, Emory University, 2013
+* BA, Bates College, 2009
 
 
 ## Profiles 
